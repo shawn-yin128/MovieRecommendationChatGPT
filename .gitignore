@@ -1,2 +1,2 @@
-./backend/node/constants.js
-./backend/py/constants.js
+backend/node/constants.js
+backend/py/constants.py
